@@ -133,9 +133,6 @@ Mover Abajo (Debug)
 
 S
 
-Mover Izquierda
-
-A
 
 Mover Derecha
 
